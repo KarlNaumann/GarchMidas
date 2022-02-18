@@ -1,0 +1,6 @@
+# Excl. outputs
+
+figures/*
+forecasting/*
+markovOutput/*
+markovResults/*
